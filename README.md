@@ -26,8 +26,10 @@
 
 ### 💻 Technologies We Use
 
+### 💻 Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,daisyui,react,git,github,vscode,netlify" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, DaisyUI, React, Git, GitHub, VS Code, Netlify"/>
 </p>
 
 ### 🌐 Websites for Every Type of Business
