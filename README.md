@@ -27,18 +27,20 @@
 ### 💻 Technologies We Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,git,github,vscode" alt="Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" alt="Technologies"/>
 </p>
 
-### 🛠️ Our Projects
+### 🌐 Websites for Every Type of Business
 
-We build websites tailored to different business needs.
+At **WorksByDev**, we create modern, responsive, and professional websites for businesses across different industries. Whether you're a startup, a small business, or an established company, we build websites tailored to your unique needs and goals.
 
-- 🏪 Business Websites
-- 🍽️ Restaurant Websites
-- 💈 Salon & Beauty Websites
-- 🏋️ Fitness & Gym Websites
-- 📄 Landing Pages
+- 🏢 Websites for All Types of Businesses
+- 🚀 Startup & Small Business Websites
+- 🛍️ E-commerce & Online Store Websites
+- 💼 Corporate & Professional Websites
+- 📄 Landing Pages & Custom Website Solutions
+
+**Our goal is simple:** Help every business build a strong and professional online presence.
 
 ### 📬 Get In Touch
 
